@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    background: linear-gradient(140deg, #1d204c, red);
+    /* background-color: #1E293B; */
+    color:white
+}
